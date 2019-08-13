@@ -1,0 +1,25 @@
+{
+    "nrOfStations": 3,
+    "stations": [
+        {
+            "name": "CKWR-FM",
+            "url": "http://158.69.225.238:5307/CKWR"
+        },
+        {
+            "name": "Radio Waterloo",
+            "url": "http://192.240.102.133:7703/stream"
+      },
+      {
+            "name": "Jammin Vibez Radio",
+            "url": "http://158.69.227.214:8700/fdkaac_autodj"
+      },
+      {
+            "name": "retro 104 oldies",
+            "url": "https://onlineradiobox.com/json/ca/retro104oldies/play?platform=web"
+      },
+      {
+            "name": "CBC radio 1",
+            "url": "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_OTT@348188/index_96_a-b.m3u8?sd=10&rebase=on"
+      }
+    ]
+}
